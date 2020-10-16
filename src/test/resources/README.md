@@ -1,1 +1,2 @@
 애플리케이션을 실행할 때 사용할 설정 파일이나 일반 파일을 두는 폴더
+https://ovenapp.io/view/68r4ZvHakCFGf9vOEmfJaVMIoiKKycmi/
